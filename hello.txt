@@ -6,8 +6,8 @@ hello java
 hello java
 hello java
 
-33333333333hello java
-2222222222222222222222
+3333hello java
+2222222
 hello java
 hello java
 hello java
